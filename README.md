@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Steven Hoang, a Data Analyst proficient in data analysis, reporting, query optimization, and database design. 
+I'm Steven Hoang, a result-driven Data Analyst proficient in data analysis, reporting, query optimization, and database design. With my sales background in the technology and global workforce management industry, I bring a unique blend of analytical expertise and business acumen to translate complex data into actionable insights.   
 
 - SQL data querying
 - Report generation and ad-hoc data analysis using SQL
