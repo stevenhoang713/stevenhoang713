@@ -21,9 +21,9 @@ I'm Steven Hoang, a Data Analyst proficient in data analysis, reporting, query o
 - Dashboard and visualization development through Tableau
 - Data analysis and reporting with Excel
 
-### ⚡ Projects 
+### 🖥️ Projects 
 
-Explore my portfolio to discover a collection of my [projects](https://github.com/stevenhoang713/Portfolio).
+Explore my portfolio that contains a collection of my [projects](https://github.com/stevenhoang713/Portfolio).
 
 ### 🔧 Tools & Platforms
 
