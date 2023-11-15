@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 I'm Steven Hoang, a result-driven Data Analyst proficient in data analysis, reporting, query optimization, and database design. With my sales background in the technology and global workforce management industry, I bring a unique blend of analytical expertise and business acumen to translate complex data into actionable insights.   
 
 - SQL data querying
+- Data analysis and reporting with Excel
 - Report generation and ad-hoc data analysis using SQL
 - Dashboard and visualization development through Tableau
-- Data analysis and reporting with Excel
 
 ### 🖥️ Projects 
 
