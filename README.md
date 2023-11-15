@@ -23,7 +23,7 @@ I'm Steven Hoang, a Data Analyst proficient in data analysis, reporting, query o
 
 ### 🖥️ Projects 
 
-Explore my portfolio that contains a collection of my [projects](https://github.com/stevenhoang713/Portfolio).
+Explore my portfolio to find a collection of my [projects](https://github.com/stevenhoang713/Portfolio).
 
 ### 🔧 Tools & Platforms
 
