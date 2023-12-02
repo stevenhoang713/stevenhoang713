@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I’m Steven Hoang, a data analyst with a degree in business administration and marketing. I have four years of experience in sales and business development, working for leading companies in the technology and global workforce management industry. With my background combined with profiency in SQL, Tableau, and Python, I bring a unique blend of analytical expertise and business acumen to translate complex data into actionable insights.
+I’m Steven Hoang, a data analyst with a degree in business administration and marketing from the University of Houston. I have four years of experience in sales and business development, working for leading companies in the technology and global workforce management industry. I currently use SQL, Excel, Python, and Tableau for data querying, manipulation, and visualization. 
 
-### 🔧 Skills and Tools
+### 🔧 Tools
 
 - Languages: SQL, Python
 - Databases: MySQL, PostgreSQL
@@ -26,5 +26,5 @@ I’m Steven Hoang, a data analyst with a degree in business administration and 
 
 I’ve completed several data analysis projects, such as analyzing customer behavior, predicting sales performance, and optimizing marketing campaigns. You can explore my portfolio to find a collection of my [projects](https://github.com/stevenhoang713/Portfolio).
 
-If you’re interested in working with me or learning more about my projects, feel free to reach out to me via LinkedIn or email. 
+If you’re interested in working with me or learning more about my projects, feel free to reach out to me via LinkedIn or email, or visit my portfolio for more details. 
 
