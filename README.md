@@ -14,19 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Steven Hoang, a result-driven Data Analyst proficient in data analysis, reporting, query optimization, and database design. With my sales background in the technology and global workforce management industry, I bring a unique blend of analytical expertise and business acumen to translate complex data into actionable insights.   
+I’m Steven Hoang, a data analyst with a degree in business administration and marketing. I have four years of experience in sales and business development, working for leading companies in the technology and global workforce management industry. With my background combined with profiency in SQL, Tableau, and Python, I bring a unique blend of analytical expertise and business acumen to translate complex data into actionable insights.
 
-- SQL data querying
-- Data analysis and reporting with Excel
-- Report generation and ad-hoc data analysis using SQL
-- Dashboard and visualization development through Tableau
-
-### 🖥️ Projects 
-
-Explore my portfolio to find a collection of my [projects](https://github.com/stevenhoang713/Portfolio).
-
-### 🔧 Tools & Platforms
+### 🔧 Skills and Tools
 
 - Languages: SQL, Python
 - Databases: MySQL, PostgreSQL
-- Visualization: Tableau 
+- Visualization: Tableau
+  
+### 🖥️ Projects 
+
+I’ve completed several data analysis projects, such as analyzing customer behavior, predicting sales performance, and optimizing marketing campaigns. You can explore my portfolio to find a collection of my [projects](https://github.com/stevenhoang713/Portfolio).
+
+If you’re interested in working with me or learning more about my projects, feel free to reach out to me via LinkedIn or email. 
+
