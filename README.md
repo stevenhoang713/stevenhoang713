@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I’m Steven Hoang, a data analyst with a background in lead generation, account management, and market research. A proven track record of exceeding sales quotas, revenue growth, and fostering strong client relationships in the technology and global workforce management industries. Proficient in SQL, Python, Excel, and Tableau for data querying, manipulation, and visualization. Experienced in collaborating with cross-functional teams, understanding and optimizing business processes, and providing insights and recommendations to organizations, partners, and clients.
+I’m Steven Hoang, a data analyst with a background in sales, business development, and account management in the technology and global workforce management industries. Proficient in SQL, Python, Excel, and Tableau for data querying, manipulation, and visualization. Experienced in collaborating with cross-functional teams, understanding and optimizing business processes, and providing insights and recommendations to organizations, partners, and clients.
 
 ### 🔧 Tools
 
