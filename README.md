@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I’m Steven Hoang, a data analyst with a robust background in sales, business development, and account management, showcasing strong communication skills and a proven ability to build lasting stakeholder relationships. Proficient in data analysis tools, such as SQL and Python, with a focus on effective communication of complex findings. Recently completed the University of Texas Data Analytics Essentials Course and eager for opportunities to apply skills in data analysis and visualization. 
+Driven and detail-oriented professional with a Bachelor of Business Administration in Marketing from the University of Houston and Postgraduate certification in Data Science and Business Analytics from the University of Austin. Experienced in both sales and data analysis, with the ability to leverage analytical skills to drive business success and improve internal processes.
 
 ### 🔧 Tools
 
